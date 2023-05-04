@@ -1,0 +1,17 @@
+/* Estilos generales */
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Estilos del encabezado */
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+/* Estilos del pie de página */
+footer {
+  color: #555;
+}
+
+/* Agrega aquí tus estilos personalizados */
