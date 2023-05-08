@@ -1,9 +1,12 @@
 <?php
-
 return [
+    'driver' => 'mysql',
     'host' => 'localhost',
+    'database' => 'manejo_de_tareas',
     'username' => 'root',
     'password' => '',
-    'database' => 'gestion_tareas',
     'charset' => 'utf8mb4',
+    'collation' => 'utf8mb4_unicode_ci',
+    'prefix' => '',
 ];
+?>
